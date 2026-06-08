@@ -1,10 +1,59 @@
 <h1 align="left">Магомед-Амин Мишиев</h1>
 
-<p align="left">Начинающий frontend-разработчик</p>
+<p align="left">
+  Начинающий frontend-разработчик, ориентированный на создание чистого, поддерживаемого кода и компонентного подхода. 
+  Уверенно применяю принципы адаптивной и кроссбраузерной верстки для создания точных pixel-perfect интерфейсов, активно изучаю и внедряю новые технологии.
+</p>
 
 <p align="left">Сайт: <a href="https://mejiamin.vercel.app/" target="_blank" rel="noopener noreferrer">Мой портфолио</a></p>
 
-<h2 align="left">Мой технологический стек</h2>
+<h2 align="left">Опыт</h2>
+
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <strong>Frontend Developer Intern</strong><br>
+      <a href="https://preax.ru" target="_blank">Платформа PREAX</a><br>
+    </td>
+    <td width="70%" valign="top">
+      Разработка интерфейсов в рамках практической стажировки, симулирующей работу в реальной ИТ-компании.
+      <br><br>
+      <strong>Обязанности и достижения:</strong>
+      <ul>
+        <li>Разработка приложений строго по ТЗ и макетам из Figma с соблюдением дедлайнов.</li>
+        <li>Написание чистого кода и успешное прохождение регулярных код-ревью (code review).</li>
+        <li>Работа с существующей кодовой базой (Legacy code) и рефакторинг.</li>
+      </ul>
+      <strong>Стек:</strong> HTML, CSS, JavaScript, React, Vite, Git.
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Проекты</h2>
+
+<ul>
+  <li>
+    <strong>TaskanaApp1</strong> — Приложение для управления задачами с поддержкой сортировки и смены темы (Март 2026 г., платформа PREAX).
+    <br><em>Стек: React, Vite, CSS Modules</em>
+  </li>
+  <br>
+  <li>
+    <strong>WeatherApp1</strong> — Адаптивное веб-приложение прогноза погоды (Май 2026 г., платформа PREAX).
+    <br><em>Стек: HTML, CSS, JavaScript</em>
+  </li>
+  <br>
+  <li>
+    <strong>RestoApp1</strong> — Главная страница сайта ресторана (Апрель 2026 г., платформа PREAX).
+    <br><em>Стек: HTML, CSS, JavaScript</em>
+  </li>
+  <br>
+  <li>
+    <strong>mejiamin</strong> — Создал свой портфолио (Январь 2026 г.).
+    <br><em>Стек: Next.js, TypeScript, TailwindCSS</em>
+  </li>
+</ul>
+
+<h2 align="left">Технологический стек</h2>
 
 <h4 align="left">Уверенно использую:</h4>
 
@@ -32,12 +81,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-<h2 align="left">Как со мной связаться</h2>
+<h2 align="left">Связь</h2>
 
 <p align="left">
   <a href="https://t.me/mejiamin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <img width="10" />
   <a href="mailto:mokhmadmishiev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
