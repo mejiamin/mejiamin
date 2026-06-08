@@ -13,7 +13,7 @@
   <tr>
     <td width="30%" valign="top">
       <strong>Frontend Developer Intern</strong><br>
-      <a href="https://preax.ru" target="_blank">Платформа PREAX</a><br>
+      <a href="https://preax.ru" target="_blank" rel="noopener noreferrer">Платформа PREAX</a><br>
     </td>
     <td width="70%" valign="top">
       Разработка интерфейсов в рамках практической стажировки, симулирующей работу в реальной ИТ-компании.
