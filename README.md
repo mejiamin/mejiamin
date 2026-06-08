@@ -42,9 +42,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mejiamin/mejiamin/snake-output/snake.svg" alt="Snake animation" />
-</div>
