@@ -33,17 +33,17 @@
 
 <ul>
   <li>
-    <strong>TaskanaApp1</strong> — Приложение для управления задачами с поддержкой сортировки и смены темы (Март 2026 г., платформа PREAX).
+    <strong><a href="https://github.com/mejiamin/TaskanaApp1" target="_blank" rel="noopener noreferrer">TaskanaApp1</a></strong> — Приложение для управления задачами с поддержкой сортировки и смены темы (Март 2026 г., платформа PREAX).
     <br><em>Стек: React, Vite, CSS Modules</em>
   </li>
   <br>
   <li>
-    <strong>WeatherApp1</strong> — Адаптивное веб-приложение прогноза погоды (Май 2026 г., платформа PREAX).
+    <strong><a href="https://github.com/mejiamin/WeatherApp1" target="_blank" rel="noopener noreferrer">WeatherApp1</a></strong> — Адаптивное веб-приложение прогноза погоды (Май 2026 г., платформа PREAX).
     <br><em>Стек: HTML, CSS, JavaScript</em>
   </li>
   <br>
   <li>
-    <strong>RestoApp1</strong> — Главная страница сайта ресторана (Апрель 2026 г., платформа PREAX).
+    <strong><a href="https://github.com/mejiamin/RestoApp1" target="_blank" rel="noopener noreferrer">RestoApp1</a></strong> — Главная страница сайта ресторана (Апрель 2026 г., платформа PREAX).
     <br><em>Стек: HTML, CSS, JavaScript</em>
   </li>
   <br>
