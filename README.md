@@ -48,7 +48,7 @@
   </li>
   <br>
   <li>
-    <strong>mejiamin</strong> — Создал свой портфолио (Январь 2026 г.).
+    <strong><a href="https://mejiamin.vercel.app" target="_blank" rel="noopener noreferrer">mejiamin</a></strong> — Создал свой портфолио (Январь 2026 г.).
     <br><em>Стек: Next.js, TypeScript, TailwindCSS</em>
   </li>
 </ul>
