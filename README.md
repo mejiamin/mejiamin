@@ -1,7 +1,7 @@
 <h1 align="left">Магомед-Амин Мишиев</h1>
 
 <p align="left">
-  Начинающий frontend-разработчик, ориентированный на создание чистого, поддерживаемого кода и компонентного подхода. 
+  Frontend-разработчик, специализирующийся на создании чистого, поддерживаемого кода и компонентного подхода. 
   Уверенно применяю принципы адаптивной и кроссбраузерной верстки для создания точных pixel-perfect интерфейсов, активно изучаю и внедряю новые технологии.
 </p>
 
@@ -12,19 +12,18 @@
 <table width="100%">
   <tr>
     <td width="30%" valign="top">
-      <strong>Frontend Developer Intern</strong><br>
-      <a href="https://preax.ru" target="_blank" rel="noopener noreferrer">Платформа PREAX</a><br>
+      <strong>Intern Frontend Developer</strong><br>
+      <a href="https://preax.ru" target="_blank" rel="noopener noreferrer">PREAX</a><br>
     </td>
     <td width="70%" valign="top">
-      Разработка интерфейсов в рамках практической стажировки, симулирующей работу в реальной ИТ-компании.
+      Разработка интерфейсов в рамках практической стажировки в ИТ-компании.
       <br><br>
       <strong>Обязанности и достижения:</strong>
       <ul>
-        <li>Разработка приложений строго по ТЗ и макетам из Figma с соблюдением дедлайнов.</li>
+        <li>Разработка приложений строго по ТЗ и макетам из Figma.</li>
         <li>Написание чистого кода и успешное прохождение регулярных код-ревью (code review).</li>
-        <li>Работа с существующей кодовой базой (Legacy code) и рефакторинг.</li>
       </ul>
-      <strong>Стек:</strong> HTML, CSS, JavaScript, React, Vite, Git.
+      <strong>Стек:</strong> HTML, CSS, JavaScript, TypeScript, React, Redux, Vite, Git.
     </td>
   </tr>
 </table>
@@ -65,20 +64,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </div>
 
 <h4 align="left">Также знаком и применяю в работе:</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" style="background-color: #fff; padding: 2px; border-radius: 4px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
 </div>
 
 <h2 align="left">Связь</h2>
