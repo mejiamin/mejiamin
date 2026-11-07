@@ -16,12 +16,12 @@
       <a href="https://preax.ru" target="_blank" rel="noopener noreferrer">PREAX</a><br>
     </td>
     <td width="70%" valign="top">
-      Разработка интерфейсов в рамках практической стажировки в ИТ-компании.
+      Разработка веб-приложений в рамках практической стажировки.
       <br><br>
       <strong>Обязанности и достижения:</strong>
       <ul>
         <li>Разработка приложений строго по ТЗ и макетам из Figma.</li>
-        <li>Написание чистого кода и успешное прохождение регулярных код-ревью (code review).</li>
+        <li>Написание чистого кода, дебаггинг, устранение багов и успешное прохождение регулярных код-ревью (code review).</li>
       </ul>
       <strong>Стек:</strong> HTML, CSS, JavaScript, TypeScript, React, Redux, Vite, Git.
     </td>
@@ -32,17 +32,17 @@
 
 <ul>
   <li>
-    <strong><a href="https://github.com/mejiamin/TaskanaApp1" target="_blank" rel="noopener noreferrer">TaskanaApp1</a></strong> — Приложение для управления задачами с поддержкой сортировки и смены темы (Март 2026 г., платформа PREAX).
+    <strong><a href="https://github.com/mejiamin/TaskanaApp1" target="_blank" rel="noopener noreferrer">TaskanaApp1</a></strong> — Приложение для управления задачами с поддержкой сортировки и смены темы (Март 2026 г., PREAX).
     <br><em>Стек: React, Vite, CSS Modules</em>
   </li>
   <br>
   <li>
-    <strong><a href="https://github.com/mejiamin/WeatherApp1" target="_blank" rel="noopener noreferrer">WeatherApp1</a></strong> — Адаптивное веб-приложение прогноза погоды (Май 2026 г., платформа PREAX).
+    <strong><a href="https://github.com/mejiamin/WeatherApp1" target="_blank" rel="noopener noreferrer">WeatherApp1</a></strong> — Адаптивное веб-приложение прогноза погоды (Май 2026 г., PREAX).
     <br><em>Стек: HTML, CSS, JavaScript</em>
   </li>
   <br>
   <li>
-    <strong><a href="https://github.com/mejiamin/RestoApp1" target="_blank" rel="noopener noreferrer">RestoApp1</a></strong> — Главная страница сайта ресторана (Апрель 2026 г., платформа PREAX).
+    <strong><a href="https://github.com/mejiamin/RestoApp1" target="_blank" rel="noopener noreferrer">RestoApp1</a></strong> — Главная страница сайта ресторана (Апрель 2026 г., PREAX).
     <br><em>Стек: HTML, CSS, JavaScript</em>
   </li>
   <br>
